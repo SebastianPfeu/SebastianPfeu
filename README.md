@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">An aspiring full stack web and mobile developer</h3>
 
-<p align="center">💬 Ask me about **Ruby, Rails, HTML, CSS, JavaScript, Swift</p>
+<p align="center">💬 Ask me about Ruby, Rails, HTML, CSS, JavaScript, Swift</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

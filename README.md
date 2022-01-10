@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">An aspiring full stack web and mobile developer</h3>
+<h1 align="center">Welcome to my GitHub profile 👋</h1>
+<h3 align="center">I am Sebastian, an aspiring full stack web and mobile developer</h3>
 
 <p align="center">💬 Ask me about Ruby, Rails, HTML, CSS, JavaScript and Swift</p>
 

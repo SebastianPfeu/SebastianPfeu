@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub profile 👋</h1>
-<h3 align="center">I am Sebastian, a full stack web and mobile developer</h3>
+<h3 align="center">I am Sebastian, a junior full stack web and mobile developer</h3>
 
 <p align="center">📚 I have recently graduated from Le Wagon, a world-leading full stack web development bootcamp. As the bootcamp's final project, I have built a platform which connects seekers and providers of shared flats in a highly efficient way. If you want to know more about it, please have a look at my <a href="https://www.youtube.com/watch?v=rEGKyuVPJcw#t=59m38s" target="_blank">demo</a>.</p>
 

@@ -3,7 +3,7 @@
 
 <p align="center">📚 I have recently graduated from Le Wagon, a world-leading full stack web development bootcamp. In the course of the bootcamp I have built a platform that connects seekers and providers of shared flats in a highly efficient way. If you want to know more about it, please have a look at my <a href="https://www.youtube.com/watch?v=rEGKyuVPJcw#t=59m38s" target="_blank">demo</a>. In addition, I currently learn to develop apps for iOS.</p>
 
-<p align="center">💬 Ask me about HTML, CSS, JavaScript, TypeScript, React, Redux, Ruby on Rails, SQL and Swift</p>
+<p align="center">💬 Ask me about <strong>HTML, CSS, JavaScript, TypeScript, React, Redux, Ruby on Rails, SQL and Swift</strong></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

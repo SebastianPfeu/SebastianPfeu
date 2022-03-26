@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub profile 👋</h1>
 <h3 align="center">My name is Sebastian and I am a junior full stack web developer</h3>
 
-<p align="center">📚 I have recently graduated from Le Wagon, a world-leading full stack web development bootcamp. Have a look at my final project <a href="https://www.youtube.com/watch?v=rEGKyuVPJcw#t=59m38s" target="_blank">here</a>. In addition, I currently learn to develop apps for iOS.</p>
+<p align="center">📚 I have started coding at Le Wagon, a world-leading full stack web development bootcamp. Have a look at my final project <a href="https://www.youtube.com/watch?v=rEGKyuVPJcw#t=59m38s" target="_blank">here</a>. Since then I have taught myself how to build single-page applications using React and currently learn to develop apps for iOS.</p>
 
 <p align="center">💬 Ask me about <strong>HTML, CSS, JavaScript, TypeScript, React, Redux, Ruby on Rails, SQL and Swift</strong></p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub profile 👋</h1>
 <h3 align="center">My name is Sebastian and I am a full stack web and mobile app developer</h3>
 
-<p align="center">I have started coding at Le Wagon, a world-leading full stack web development bootcamp. If you want to know more about my final project of the bootcamp, please have a look <a href="https://www.youtube.com/watch?v=rEGKyuVPJcw#t=59m38s" target="_blank">here</a>. In addition, I have taught myself building single-page applications using React and Node.js as well as iOS apps in Swift.</p>
+<p align="center">I have started coding at Le Wagon, a world-leading full stack web development bootcamp focused on HTML, CSS and Ruby on Rails. If you want to know more about my final project of the bootcamp, please have a look <a href="https://www.youtube.com/watch?v=rEGKyuVPJcw#t=59m38s" target="_blank">here</a>. In addition, I have taught myself building single-page applications using React and Node.js as well as iOS apps in Swift.</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -67,7 +67,11 @@
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  </a>
+
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  </a>
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 

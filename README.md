@@ -3,14 +3,6 @@
 
 <p align="center">📚 I have started coding at Le Wagon, a world-leading full stack web development bootcamp. If you want to know more about my final project of the bootcamp, please have a look <a href="https://www.youtube.com/watch?v=rEGKyuVPJcw#t=59m38s" target="_blank">here</a>. In addition, I have taught myself building single-page applications using React and Node.js as well as iOS apps in Swift.</p>
 
-<p align="center">💬 Feel free to ask me about <strong>HTML, CSS, JavaScript, React, Node.js, Ruby on Rails, SQL as well as Swift and SwiftUI</strong></p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/sebastian-pfeufer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-pfeufer" height="30" width="40" /></a>
-<a href="https://twitter.com/SebastianPfeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="sebastian-pfeufer" height="30" width="40" /></a>
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -53,11 +45,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/> 
   </a>
 
-
-
-
-  
-
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
@@ -85,6 +72,17 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
   </a> 
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/sebastian-pfeufer" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-pfeufer" height="30" width="40" />
+  </a>
+
+  <a href="https://twitter.com/SebastianPfeu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="sebastian-pfeufer" height="30" width="40" />
+  </a>
 </p>
 
 

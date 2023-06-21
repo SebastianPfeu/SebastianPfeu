@@ -49,7 +49,7 @@
     <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/nodejs.png" alt="rails" width="40" height="40"/> 
   </a>
 
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
   </a>
 

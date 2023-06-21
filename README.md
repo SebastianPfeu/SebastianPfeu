@@ -52,6 +52,10 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a>
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
   
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 

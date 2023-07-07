@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub profile 👋</h1>
-<h3 align="center">I am Sebastian and I am a full stack web and mobile app developer</h3>
+<h3 align="center">My name is Sebastian and I am a full stack web and mobile app developer</h3>
 
 <p align="center">I have started coding at Le Wagon, a world-leading full stack web development bootcamp focused on HTML, CSS and Ruby on Rails. If you want to know more about my final project of the bootcamp, please have a look <a href="https://www.youtube.com/watch?v=rEGKyuVPJcw#t=59m38s" target="_blank">here</a>. In addition, I have taught myself building single-page applications using React and Node.js as well as iOS apps in Swift.</p>
 
